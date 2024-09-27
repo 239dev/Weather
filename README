@@ -1,0 +1,29 @@
+# Weather App
+
+## Overview
+
+This is a user-friendly Weather App developed using HTML, CSS, and JavaScript. It provides real-time weather information by leveraging a weather API, allowing users to easily check current weather conditions for any city around the globe.
+
+## Features
+
+- **Current Weather Data**: Displays temperature, humidity, wind speed, and weather conditions.
+- **Search Functionality**: Users can search for weather data by entering the name of any city.
+- **User-Friendly Interface**: Simple and intuitive design for easy navigation.
+
+## Technologies Used
+
+- **HTML**: Markup for the app structure.
+- **CSS**: Styling to create a visually appealing interface.
+- **JavaScript**: Client-side scripting to fetch weather data and handle user interactions.
+- **Weather API**: Used to retrieve current weather information.
+
+## Getting Started
+
+1. Clone this repository or download the source code.
+2. Open `index.html` in your web browser.
+3. Enter the name of a city in the search bar to fetch the weather data.
+4. Enjoy exploring the weather conditions!
+
+## API Key
+
+To use the weather API, you may need to sign up for an API key. Ensure to replace the placeholder in the code with your actual API key.
